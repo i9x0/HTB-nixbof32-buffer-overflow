@@ -1,6 +1,6 @@
 
 
-# 🧾 Write-up: Stack-Based Buffer Overflow (nixbof32) 🛡️
+# 🧾 Write-up: Stack-Based Buffer Overflows on Linux x86 HTB (nixbof32) 🛡️
 
 هذا التقرير يوثق عملية حل تحدي `nixbof32`، مع التركيز على استخراج العناوين الصحيحة في بيئة مجمعة بتقنية PIE وتطوير exploit مستقر.
 
