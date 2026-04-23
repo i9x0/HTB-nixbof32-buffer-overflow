@@ -1,5 +1,5 @@
 
-```markdown
+
 # 🧾 Write-up: Stack-Based Buffer Overflow (nixbof32) 🛡️
 
 هذا التقرير يوثق عملية حل تحدي `nixbof32`، مع التركيز على استخراج العناوين الصحيحة في بيئة مجمعة بتقنية PIE وتطوير exploit مستقر.
